@@ -10,6 +10,10 @@
     "build": "tsc"
   },
   "bin": "./index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alsonick/chat-gpt-cli"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
